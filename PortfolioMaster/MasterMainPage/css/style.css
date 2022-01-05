@@ -1,0 +1,165 @@
+
+#largeName{
+
+position: absolute;
+width: 685px;
+height: 106px;
+left: 209px;
+top: 138px;
+
+font-family: 'Nunito', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 94px;
+
+color: #000000;
+
+border: 0px solid #000000;
+}
+
+#underTitle
+{
+  /* UX Researcher & placeHolder */
+
+position: absolute;
+width: 296px;
+height: 131px;
+left: 209px;
+top: 256px;
+
+font-family: 'Nunito', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #555555;
+
+
+}
+
+.paddingL{
+  padding-left: 195px;
+  /*border: px solid #4CAF50;*/
+}
+
+
+#button1{
+  /* Rectangle 18 */
+
+position: absolute;
+width: 177px;
+height: 38px;
+left: 202px;
+top: 400px;
+font-family: 'Nunito', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 27px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+padding:7px;
+color: aliceblue;
+background: #00522F;
+
+}
+#button2{
+  /* Rectangle 18 */
+
+position: absolute;
+width: 177px;
+height: 38px;
+left: 202px;
+top:470px;
+font-family: 'Nunito', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 27px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+padding:7px;
+color: aliceblue;
+background: #00522F;
+
+}
+
+
+#backgroundRibbon {
+  /* Rectangle 17 */
+
+position: absolute;
+width: 5459px;
+height: 313px;
+left: 516px;
+top: 79px;
+
+background: rgba(196, 196, 196, 0.2);
+transform: rotate(90deg);
+
+}
+ {
+  border: 1px solid black;
+  background-color: lightblue;
+ 
+}
+
+#dotGraphics
+{
+/* image 4 */
+
+position: absolute;
+ width: auto;
+height: 1000px;
+left: 182px;
+top: 425px;
+
+
+
+}
+
+#horizonDots
+{
+
+position: absolute;
+width: 592px;
+height: 9px;
+left: 516px;
+top: 317px;
+
+}
+
+#linkedin{
+position : absolute;
+left: 202px;
+top:600px;
+}
+
+#email{
+  position : absolute;
+  left: 202px;
+  top:700px;
+}
+
+#mug2
+{
+  position :absolute;
+  left: 800px;
+  Top: 500px;
+}
+#mug3
+{
+  position :absolute;
+  left: 1100px;
+  Top: 500px;
+  transform: flip;
+  
+}
